@@ -2,8 +2,8 @@
 
 Input :
 
--.txt com varios numeros
+-Usuario escreve números;
 
 Output:
 
--Numeros escritos por extenso
+-Numeros escritos por extenso;
